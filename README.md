@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">I am currently pursuing my MTech in Machine Learning at DAIICT. <br><br> I'm a Computer Science Engineer with a knack for Coding, Software Development, passion for AI/ML, blended with my strength in Python, Algorithms, C++, in which I have built several award-winning projects that have scaled efficiency. Individual who is highly enthusiastic about Health Tech Projects.<br><br>Geek YouTuber Aiming to provide Technical concept clarity to fellow learner across the globe. Positive and Solution oriented person who is a bibliophile and melamonic. Having affinity to Exploring the world , am a Travel Blogger. <br><br>Strong Leader and a humble Teacher. With ability to manage the team to work along them with agility and efficiency. I have had my experience in managing events and teams to work along on a common goal. <br><br>A multilingual person with a knowledge of six different languages. I easily adapt to new environments and ready to grab all the opportunities to enhance my skills and to use my capabilities in the most efficient way.<br><br> Joyous person who believes to keep the environment cheerful in order to bring the best out of everyone around.<br><br>Feel Free to reach me out on linkedin : https://www.linkedin.com/in/dreamypujara/</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -70,6 +66,17 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamyPujara&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DreamyPujara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<p align="left">I am currently pursuing my MTech in Machine Learning at DAIICT. <br><br> I'm a Computer Science Engineer with a knack for Coding, Software Development, passion for AI/ML, blended with my strength in Python, Algorithms, C++, in which I have built several award-winning projects that have scaled efficiency. Individual who is highly enthusiastic about Health Tech Projects.<br><br>Geek YouTuber Aiming to provide Technical concept clarity to fellow learner across the globe. Positive and Solution oriented person who is a bibliophile and melamonic. Having affinity to Exploring the world , am a Travel Blogger. <br><br>Strong Leader and a humble Teacher. With ability to manage the team to work along them with agility and efficiency. I have had my experience in managing events and teams to work along on a common goal. <br><br>A multilingual person with a knowledge of six different languages. I easily adapt to new environments and ready to grab all the opportunities to enhance my skills and to use my capabilities in the most efficient way.<br><br> Joyous person who believes to keep the environment cheerful in order to bring the best out of everyone around.<br><br>Feel Free to reach me out on linkedin : https://www.linkedin.com/in/dreamypujara/</p>
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@TechnoStack" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -83,13 +90,6 @@
   <a href="https://medium.com/@dreamypujara" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DreamyPujara&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DreamyPujara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
