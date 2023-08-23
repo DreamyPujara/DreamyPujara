@@ -96,6 +96,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DreamyPujara/DreamyPujara/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/DreamyPujara/DreamyPujara/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
