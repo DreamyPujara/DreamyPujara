@@ -96,6 +96,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/DreamyPujara/DreamyPujara/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
