@@ -14,7 +14,7 @@ Small products for people building reliable AI experiences. Working examples fir
 | --- | --- |
 | **[TraceBench](https://github.com/DreamyPujara/tracebench)** — first working version | Replay recorded traces, flag unsafe retries and handoff failures, and compare candidate fixes. Python; no model calls. |
 | **[TurnLens](https://github.com/DreamyPujara/turnlens)** — first working version | Inspect voice-conversation timing: response gaps, overlapping speech and dead air, with an interactive local report. |
-| **BargeIn Lab** — planned | Does a voice assistant yield promptly when someone interrupts? |
+| **[BargeIn Lab](https://github.com/DreamyPujara/bargein-lab)** — first working version | Compare interruption-cancellation delays in synthetic voice sessions and gate regressions. |
 | **CaptionPulse** — planned | How do caption delay and revision churn affect the live experience? |
 | **SpeakFlow** — planned | Turn a timestamped rehearsal transcript into specific moments to practice. |
 
