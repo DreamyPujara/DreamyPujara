@@ -8,13 +8,15 @@ My background spans enterprise agent engineering and NLP/speech research. I'm in
 
 ## On my workbench
 
-An offline evaluator is ready to try; two further projects are on the roadmap.
+Small products for people building reliable AI experiences. Working examples first; planned work stays labeled.
 
 | Project | Question I'm exploring |
 | --- | --- |
 | **[TraceBench](https://github.com/DreamyPujara/tracebench)** — first working version | Replay recorded traces, flag unsafe retries and handoff failures, and compare candidate fixes. Python; no model calls. |
-| **FieldKit** — planned | Can a messy customer export become a trustworthy integration contract? |
-| **SignalDesk** — planned | Can a product decision stay connected to its evidence? |
+| **[TurnLens](https://github.com/DreamyPujara/turnlens)** — first working version | Inspect voice-conversation timing: response gaps, overlapping speech and dead air, with an interactive local report. |
+| **BargeIn Lab** — planned | Does a voice assistant yield promptly when someone interrupts? |
+| **CaptionPulse** — planned | How do caption delay and revision churn affect the live experience? |
+| **SpeakFlow** — planned | Turn a timestamped rehearsal transcript into specific moments to practice. |
 
 <details>
 <summary>How I approach a project</summary>
